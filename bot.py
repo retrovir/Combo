@@ -26,31 +26,31 @@ ACCOUNTS = [
         'API_HASH': '1aff8819e75343aefd318078d1dd60f3',
         'CHAT_ID': -4790971666, # Target Group/Channel ID for Account 1
         'SESSION_STRING': '1BVtsOLMBu7VOU-xwIqTxkQblWmreO2OM7eClFJoJ9eVOyXxiwC9OdQ7NOmyuL0hMqA_f4s_-7HGIRpPZPUvtogf0Sw-vXGPXOJTF0CiWuGbuB4sCtVeipT5x1KTd2q856EYxOWFXY0G3YdfYVGk0qSYO29yZl_wFmhf1w8xPKYwp05KLB_8rDxyP7QsBU6I3fJ5R9JFOJ-AJgzz37l5a5l13N63sha_jEjjMHwb_lX57_dRHSxpQM-pD3zWbAmS8Jn_WH_420Y2Br9DBoGXU5xxsPJeaiqBWha4ZXcry19k_BhGRz8GXGyWN-BOkLudm3og5c_zVDTIU4U7RXmPH-URzaalm3bA=',
-        'MY_USER_ID':5834025207
+        'MY_USER_ID': 5834025207
     },
     {
         'NAME': 'Account 2',
-        'API_ID': 24433804,    # API ID for Account 2
+        'API_ID': 24433804,
         'API_HASH': 'e7f9cd7182550a68df68718efb4b2d12',
-        'CHAT_ID': -1002100889006, # Target Group/Channel ID for Account 2
+        'CHAT_ID': -1002100889006,
         'SESSION_STRING': '1BVtsOIIBuxEeBDtF9BhLtoZWbbrgpN6D1PTf4t_0Rj3r9sxqE3bvu8lEc64FMzPTC0xdTLV8zwXxAbS9ungt3nPNADJiiuWQbeU_YEtV0VkxspfeTlXqpigiNf-G8LZFl50mhiy1XvWL8PXSld6q1vLdn60C0up2aObfJQfTRD9qLpYlIvzpDpa2nlQUCnRLrh7BGvwn8pqZn_CE0r6g-ZVdQQBjFu_CcQGNDFqsK6Ig8Kch7J0u4ScLItiu3Vbsslinlq96NtjPzACNemopT34nOMHYgvl47ncSUSB153kL7pPVZNYDRFx0S7pnHD8vCI1zGLKSeZTCId9yiTZMcb0OVW1s_Ak=',
-        'MY_USER_ID':5568135871
+        'MY_USER_ID': 5568135871
     },
     {
         'NAME': 'Account 3',
-        'API_ID':  29164136,  # API ID for Account 2
+        'API_ID': 29164136,
         'API_HASH': 'f5c25e88de83b6db6fd49e5a8e9eeb74',
-        'CHAT_ID': -4754502578, # Target Group/Channel ID for Account 2
-        'SESSION_STRING': '1BVtsOIYBu3OSacAnT0Qbe2GpXjqhmEd7GrLTtUssyGufTdYKEk4SaizGzk-X8IcdpzjThtFWfI0E_Mu1-iZZQewdYo0Ijg86OWjrtymrrD0k5kFRhiOUMPMmiLIsFSNsFaK1U9z3Zj7Qyvei_UyFiL9AYHhVnSKtHBbmQGTObADtmqPQmdGBWV4naIuTMbksmju6cp6diA2aXjl5WERSvGjN34t7oNpzKGdwfHwYQMK-k4CWQW18mCzZYRq4xugrLDC3Co5QDXI-R9P53LSiA6oUmutJ9ocr7Zy6wcJZgrE9V6D81i4TzfAnPIB4_BEvIy05kx4L7pzojEgBAntTVDpifzzgZKk='
-        'MY_USER_ID':6967887832
+        'CHAT_ID': -4754502578,
+        'SESSION_STRING': '1BVtsOIYBu3OSacAnT0Qbe2GpXjqhmEd7GrLTtUssyGufTdYKEk4SaizGzk-X8IcdpzjThtFWfI0E_Mu1-iZZQewdYo0Ijg86OWjrtymrrD0k5kFRhiOUMPMmiLIsFSNsFaK1U9z3Zj7Qyvei_UyFiL9AYHhVnSKtHBbmQGTObADtmqPQmdGBWV4naIuTMbksmju6cp6diA2aXjl5WERSvGjN34t7oNpzKGdwfHwYQMK-k4CWQW18mCzZYRq4xugrLDC3Co5QDXI-R9P53LSiA6oUmutJ9ocr7Zy6wcJZgrE9V6D81i4TzfAnPIB4_BEvIy05kx4L7pzojEgBAntTVDpifzzgZKk=',
+        'MY_USER_ID': 6967887832
     },
     {
         'NAME': 'Account 4',
-        'API_ID': 25071651,    # API ID for Account 2
+        'API_ID': 25071651,
         'API_HASH': '22bf4f762648413ed8357fa90a0e9c69',
-        'CHAT_ID': -1002496450450, # Target Group/Channel ID for Account 2
-        'SESSION_STRING': '1BVtsOMABuxYJVv6kwacbwDt-YO4AEVTyqiQ-L_N06pRIyvQOfGn3uxfGhLDkagXwf1j2rTgls-nlzC0iDfyTFEV0U3OLF7LqqXG1sUzpQtXHvC6xCDL_Qt2YG8qSv8Jmw1CN2ij7cj9Ay1PwP5ldzGB48cIEUarUxFaI385iAtinEPlKgUE4AvIReah1Sx_X2HmskRH8iODcrpWBYeCELQZ-lfgSVVGBIpy2lKQg67tNYKdFs9nVAj0ZwhabmwRcjD2fTcTdrgHAz79CdvqEC6DiaAgXqj4jnInBGCItbAxQIvTk9L---JaKDOXYNkMKZzr0XiYUA9aq2wPedeRDjTWLQ4L5xAw='
-        'MY_USER_ID':6909083639
+        'CHAT_ID': -1002496450450,
+        'SESSION_STRING': '1BVtsOMABuxYJVv6kwacbwDt-YO4AEVTyqiQ-L_N06pRIyvQOfGn3uxfGhLDkagXwf1j2rTgls-nlzC0iDfyTFEV0U3OLF7LqqXG1sUzpQtXHvC6xCDL_Qt2YG8qSv8Jmw1CN2ij7cj9Ay1PwP5ldzGB48cIEUarUxFaI385iAtinEPlKgUE4AvIReah1Sx_X2HmskRH8iODcrpWBYeCELQZ-lfgSVVGBIpy2lKQg67tNYKdFs9nVAj0ZwhabmwRcjD2fTcTdrgHAz79CdvqEC6DiaAgXqj4jnInBGCItbAxQIvTk9L---JaKDOXYNkMKZzr0XiYUA9aq2wPedeRDjTWLQ4L5xAw=',
+        'MY_USER_ID': 6909083639
     },
 ]
 
