@@ -1,0 +1,6 @@
+*.tmp
+*.log
+private_data.txt
+cache/*
+large_file.dat
+
