@@ -20,7 +20,6 @@ from telethon.errors.rpcerrorlist import SessionPasswordNeededError, MessageIdIn
 # 'CHAT_ID': int(os.environ.get('CHAT_ID_1', 0)),
 
 ACCOUNTS = [
-    ACCOUNTS = [
     {
         'NAME': 'Account 1',  # A friendly name for logging
         'API_ID': 28589254,    # API ID for Account 1
